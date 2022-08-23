@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou Eitor Paiva</h1>
+<h1 align="center">Olá 👋, sou Eitor Paiva. Seja bem-vindo ao meu GitHub!</h1>
 <h3 align="center">Um programador que gosta de impressionar. Seja com Estilo, seja com Funcionalidade</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eitorpaiva&label=Profile%20views&color=0e75b6&style=flat" alt="eitorpaiva" /> </p>
@@ -11,7 +11,7 @@
 
 - 📫 Contacte-me em **eitorbernardes@gmail.com**
 
-- ⚡ Curiosidade: **Sou canhoto mas uso mouse como destro**
+- ⚡ Curiosidade: **Sou canhoto, mas uso mouse como destro**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
