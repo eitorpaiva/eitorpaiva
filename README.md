@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eitorpaiva&label=Profile%20views&color=0e75b6&style=flat" alt="eitorpaiva" /> </p>
 
-- 🌱 No momento, estou estudando sobre **Zabbix, SNMP e Flutter**
+- 🌱 Atualmente, estou estudando **Zabbix, SNMP e Flutter**
 
-- 👨‍💻 Meu portfolio está disponível em [https://eitorpaiva.github.io/portfolio](https://eitorpaiva.github.io/portfolio)
+- 👨‍💻 Meu portfolio está disponível em meu [Portfolio](https://eitorpaiva.github.io/portfolio)
 
 - 💬 Posso te ajudar com **HTML, CSS, Java e PHP**
 
 - 📫 Como me contatar **eitorbernardes@gmail.com**
 
-- ⚡ Curiosidade **Sou canhoto mas uso mouse como destro**
+- ⚡ Curiosidade: **Sou canhoto mas uso mouse como destro**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
