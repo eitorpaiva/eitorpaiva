@@ -5,7 +5,7 @@
 
 - 🌱 No momento, estou estudando sobre **Zabbix, SNMP e Flutter**
 
-- 👨‍💻 All of my projects are available at [https://eitorpaiva.github.io/portfolio](https://eitorpaiva.github.io/portfolio)
+- 👨‍💻 Meu portfolio está disponível em [https://eitorpaiva.github.io/portfolio](https://eitorpaiva.github.io/portfolio)
 
 - 💬 Posso te ajudar com **HTML, CSS, Java e PHP**
 
