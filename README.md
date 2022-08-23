@@ -9,7 +9,7 @@
 
 - 💬 Posso te ajudar com **Redes, Servidores, HTML, CSS, Java e PHP**
 
-- 📫 Como me contatar **eitorbernardes@gmail.com**
+- 📫 Contacte-me em **eitorbernardes@gmail.com**
 
 - ⚡ Curiosidade: **Sou canhoto mas uso mouse como destro**
 
