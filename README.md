@@ -7,7 +7,7 @@
 
 - 👨‍💻 Meus projetos estão disponíveis em meu [portfolio](https://github.com/eitorpaiva?tab=repositories)
 
-- 💬 Posso te ajudar com **HTML, CSS, Java e PHP**
+- 💬 Posso te ajudar com **Redes, Servidores, HTML, CSS, Java e PHP**
 
 - 📫 Como me contatar **eitorbernardes@gmail.com**
 
